@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotation-demo/annotationdemo.iml" filepath="$PROJECT_DIR$/annotation-demo/annotationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotationdesign/annotationdesign.iml" filepath="$PROJECT_DIR$/annotationdesign/annotationdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automaticalasembly/automaticalasembly.iml" filepath="$PROJECT_DIR$/automaticalasembly/automaticalasembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composed-annotation/composedannotation.iml" filepath="$PROJECT_DIR$/composed-annotation/composedannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-app-by-gui/first-app-by-gui.iml" filepath="$PROJECT_DIR$/first-app-by-gui/first-app-by-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formatterspringbootstarter/formatter-spring-boot-starter.iml" filepath="$PROJECT_DIR$/formatterspringbootstarter/formatter-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-web-mvc-demo/spring-web-mvc-demo.iml" filepath="$PROJECT_DIR$/spring-web-mvc-demo/spring-web-mvc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springapplicationdemo/springapplicationdemo.iml" filepath="$PROJECT_DIR$/springapplicationdemo/springapplicationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/thinking-in-spring-boot.iml" filepath="$PROJECT_DIR$/.idea/thinking-in-spring-boot.iml" />
+    </modules>
+  </component>
+</project>

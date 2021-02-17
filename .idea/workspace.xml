@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring-web-mvc-demo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa9468a1-e28e-4c8f-bd38-07523a2b1e25" name="Default Changelist" comment="polish codes">
+      <change afterPath="$PROJECT_DIR$/../opensource/java8/src/cn/ajin/test/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/redis-in-action/src/main/java/cn/ajin/redis/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/redis-in-action/src/main/java/cn/ajin/redis/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/redis-in-action/src/main/java/cn/ajin/redis/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/redis-in-action/src/main/java/cn/ajin/redis/redisson/RedissonDebugDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/redis-in-action/src/main/java/cn/ajin/redis/test/FastJsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/redis-in-action/src/main/java/cn/ajin/redis/util/UserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/redis-in-action/src/test/java/cn/ajin/redis/RedisOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/sentinel-learn/src/main/java/cn/ajin/sentinel/learn/SentinelLearnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/controller/ReportController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/dao/ReportTaskDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/dao/ReportTaskDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/dao/ReportTaskVoteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/dao/ReportTaskVoteDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/db/DruidDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/domain/ReportTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/domain/ReportTaskVote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/mapper/ReportTaskMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/mapper/ReportTaskVoteMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/service/ReportTaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/service/ReportTaskServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/service/ReportTaskVoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/java/com/ajin/c2c/social/govern/report/service/ReportTaskVoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-report/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer-api/src/main/java/com/ajin/c2c/social/govern/reviewer/api/ReviewerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/src/main/java/com/ajin/c2c/social/govern/reviewer/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/src/main/java/com/ajin/c2c/social/govern/reviewer/dao/ReviewerTaskStatusDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/src/main/java/com/ajin/c2c/social/govern/reviewer/dao/ReviewerTaskStatusDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/src/main/java/com/ajin/c2c/social/govern/reviewer/db/DruidDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/src/main/java/com/ajin/c2c/social/govern/reviewer/domain/ReviewerTaskStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/src/main/java/com/ajin/c2c/social/govern/reviewer/mapper/ReviewerTaskStatusMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/src/main/java/com/ajin/c2c/social/govern/reviewer/service/ReviewerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reviewer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward-api/src/main/java/com/ajin/c2c/social/govern/reward/api/RewardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/src/main/java/com/ajin/c2c/social/govern/reward/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/src/main/java/com/ajin/c2c/social/govern/reward/dao/RewardCoinDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/src/main/java/com/ajin/c2c/social/govern/reward/dao/RewardCoinDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/src/main/java/com/ajin/c2c/social/govern/reward/db/DruidDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/src/main/java/com/ajin/c2c/social/govern/reward/domain/RewardCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/src/main/java/com/ajin/c2c/social/govern/reward/mapper/RewardCoinMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/src/main/java/com/ajin/c2c/social/govern/reward/service/RewardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/c2c-social-govern-reward/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/c2c-social-govern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/dubboImpl/credit-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/dubboImpl/credit-service/src/main/java/com/ajin/credit/CreditApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/dubboImpl/credit-service/src/main/java/com/ajin/credit/service/CreditServieImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/dubboImpl/creditinterface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/dubboImpl/creditinterface/src/main/java/com/zhss/credit/service/CreditApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/dubboImpl/orderservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/dubboImpl/orderservice/src/main/java/com/zhss/order/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/configuration/CacheConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/controller/CacheController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/kafka/KafkaConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/kafka/KafkaMessageProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/listener/InitListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/mapper/ProductInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/model/ProductInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/model/ShopInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/prewarm/CachePrewarmThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/rebuild/RebuildCacheQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/rebuild/RebuildCacheThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/service/CacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/service/impl/CacheServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/spring/SpringContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/util/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/zk/ZooKeeperSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/java/com/ajin/eshop/cache/zk/ZooKeeperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/resources/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-cache/src/main/resources/mybatis/product-info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/controller/ProductInventoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/dao/RedisDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/dao/impl/RedisDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/listener/InitListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/mapper/ProductInventoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/model/ProductInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/request/ProductInventoryDBUpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/request/ProductInventoryRefreshCacheRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/request/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/request/RequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/service/ProductInventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/service/RequestAsyncProcessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/service/impl/ProductInventoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/service/impl/RequestAsyncProcessServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/thread/RequestProcessorThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/thread/RequestProcessorThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/java/com/ajin/eshop/inventory/vo/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/resources/mybatis/ProductInventoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/resources/mybatis/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-inventory/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-storm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-storm/src/main/java/com/ajin/eshop/storm/HotProductTopology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-storm/src/main/java/com/ajin/eshop/storm/bolt/LogParseBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-storm/src/main/java/com/ajin/eshop/storm/bolt/ProductCountBolt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-storm/src/main/java/com/ajin/eshop/storm/http/HttpClientUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-storm/src/main/java/com/ajin/eshop/storm/spout/AccessLogKafkaSpout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/eshop-storm/src/main/java/com/ajin/eshop/storm/zk/ZooKeeperSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/lua-script-demo/hello.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/lua-script-demo/product.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/lua-script-demo/template.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/shishanCoder/strom-helloworld/src/main/java/com/ajin/eshop/storm/WordCountTopology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../organized-learning/springbootlabs/lab1/src/main/java/cn/ajin/lab1/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/AnnotationdesignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/CalculatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/CalculatingServiceBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/ConditinalMessageConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/ConditionalOnSystemProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/ConditionalOnSystemPropertyBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/IterationCalculatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/LambdaCalculatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/OnSystemPropertyCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/enable/importselector/ServerImportBeanDefinitionRegistrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/webauto/MyWebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/webauto/MyWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/webauto/custom/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/webauto/custom/SpringWebMvcConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/webauto/custom/SpringWebMvcServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotationdesign/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/src/main/java/com/thinkinginspringboot/automaticalasembly/AutomaticalasemblyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/src/main/java/com/thinkinginspringboot/automaticalasembly/ComponentScanDefaultPackageBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/src/main/java/com/thinkinginspringboot/automaticalasembly/FormatterBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/src/main/java/com/thinkinginspringboot/automaticalasembly/event/DefaultAutoConfigurationImportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/src/main/java/com/thinkinginspringboot/automaticalasembly/event/EnableAutoConfigurationBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automaticalasembly/src/test/java/com/thinkinginspringboot/automaticalasembly/AutomaticalasemblyApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/src/main/java/thinkinginspringboot/composedannotation/ComposedannotationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composed-annotation/src/test/java/thinkinginspringboot/composedannotation/ComposedannotationApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/src/main/java/thinkinginspringboot/firstappbygui/FirstAppByGuiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-app-by-gui/src/test/java/thinkinginspringboot/firstappbygui/FirstAppByGuiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formatterspringbootstarter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formatterspringbootstarter/src/main/java/com/ajin/formatter/Formatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formatterspringbootstarter/src/main/java/com/ajin/formatter/configuration/FormatterAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formatterspringbootstarter/src/main/java/com/ajin/formatter/impl/DefaultFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formatterspringbootstarter/src/main/java/com/ajin/formatter/impl/JsonFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formatterspringbootstarter/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-web-mvc-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-web-mvc-demo/src/main/java/com/ajin/spring/web/mvc/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-web-mvc-demo/src/main/webapp/WEB-INF/spring/app-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-web-mvc-demo/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-web-mvc-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/src/main/java/com/thinking/in/spring/boot/springapplicationdemo/SpringApplicationDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/src/main/java/com/thinking/in/spring/boot/springapplicationdemo/event/ApplicationListenerOnSpringEventsBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springapplicationdemo/src/test/java/com/thinking/in/spring/boot/springapplicationdemo/SpringApplicationDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositionService/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositionService/controller/position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositionService/models/position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PositionService/routes/position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSourceCodeLearn/ioc/src/main/java/com/ajin/bean/ApplicationContextDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSourceCodeLearn/ioc/src/main/java/com/ajin/bean/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSourceCodeLearn/ioc/src/main/java/com/ajin/bean/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSourceCodeLearn/ioc/src/main/java/com/ajin/bean/MessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSourceCodeLearn/ioc/src/main/java/com/ajin/bean/MessageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSourceCodeLearn/ioc/src/main/java/com/ajin/bean/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSourceCodeLearn/ioc/src/main/resources/applicationContext-ajin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/enable/importselector/EnableServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/enable/importselector/EnableServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/concurrent/thread/order/CyclicBarrierDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/concurrent/thread/order/SemaphoreDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/concurrent/thread/order/ThreadConditionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/concurrent/thread/order/ThreadCountDownLatchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/concurrent/thread/order/ThreadJoinDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/concurrent/thread/order/ThreadMainJoinDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/concurrent/thread/order/ThreadPoolDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/concurrent/thread/order/ThreadWaitDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/ReentrantReadWriteLockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/SimpleDateFormatDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/StampedLockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/SynchronizedDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/TestDirectByteBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/TestThreadLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/WaitNotifyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/designpattern/EnumSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/designpattern/InnerSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/designpattern/InstanceManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/designpattern/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/geektime/performancetuning/designpattern/Singleton2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/ClassLoaderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/CloneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/CloneablePerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/HashCodeAndEquals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/Resubmit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/ResubmitDataAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/ResubmitLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/SimpleDataFormatDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/StringFinalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/ThreadSafeDateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/time/DateTimeFormatterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/time/LocalDateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/time/LocalDateTimeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/time/LocalTimeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/time/PeriodDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/javabasic/time/TimeTransferDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/mybatis/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/mybatis/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/java/com/ajin/tianba/mybatis/utils/GeneratePrimaryKeyUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/resources/mybatis/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/main/resources/mybatis/mybatis-config-custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tianba/src/test/java/com/ajin/tianba/mybatis/mapper/UserMapperTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/annotationdesign/target/" />
+    <ignored path="$PROJECT_DIR$/annotation-demo/target/" />
+    <ignored path="$PROJECT_DIR$/automaticalasembly/target/" />
+    <ignored path="$PROJECT_DIR$/composed-annotation/target/" />
+    <ignored path="$PROJECT_DIR$/first-app-by-gui/target/" />
+    <ignored path="$PROJECT_DIR$/formatterspringbootstarter/target/" />
+    <ignored path="$PROJECT_DIR$/springapplicationdemo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-web-mvc-demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composed-annotation/src/main/java/thinkinginspringboot/composedannotation/AnnotationAttributesBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composed-annotation/src/main/java/thinkinginspringboot/composedannotation/annotation/TransactionalService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>handlerMappings</find>
+      <find>contextConfigLocation</find>
+      <find>&lt;groupId&gt;javax.servlet&lt;/groupId&gt;</find>
+      <find>getHandlerInternal</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/annotation-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/annotationdesign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web-mvc-demo/src/main/java/com/ajin/spring/web/mvc/controller/HelloWorldController.java" />
+        <option value="$PROJECT_DIR$/spring-web-mvc-demo/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/spring-web-mvc-demo/src/main/webapp/WEB-INF/spring/app-context.xml" />
+        <option value="$PROJECT_DIR$/spring-web-mvc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/formatterspringbootstarter/src/main/java/com/ajin/formatter/impl/DefaultFormatter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\mavenRepository" />
+        <option name="mavenHome" value="E:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\Users\ajin\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-web-mvc-demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-web-mvc-demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thinking-in-spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinking-in-spring-boot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitRepository\thinking-in-spring-boot\spring-web-mvc-demo\src\main\webapp\WEB-INF\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitRepository\thinking-in-spring-boot" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 3 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 3 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="spring-web-mvc-demo" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.33">
+    <configuration name="FirstAppByGuiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="first-app-by-gui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="thinkinginspringboot.firstappbygui.FirstAppByGuiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApplicationDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springapplicationdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thinking.in.spring.boot.springapplicationdemo.SpringApplicationDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.33" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.33" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index" />
+      <deployment>
+        <artifact name="spring-web-mvc-demo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_thinking-in-spring-boot" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8090" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring-web-mvc-demo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.FirstAppByGuiApplication" />
+      <item itemvalue="Spring Boot.SpringApplicationDemoApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.33" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9468a1-e28e-4c8f-bd38-07523a2b1e25" name="Default Changelist" comment="" />
+      <created>1587801654616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587801654616</updated>
+      <workItem from="1587801656329" duration="66000" />
+      <workItem from="1613484792770" duration="7114000" />
+      <workItem from="1613530017000" duration="3220000" />
+      <workItem from="1613542860156" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10543000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.3286219" />
+      <window_info active="true" anchor="bottom" id="SonarLint" visible="true" weight="0.32685512" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32685512" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286219" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44522968" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Sequence" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32685512" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286219" />
+      <window_info anchor="bottom" id="Statistic" order="12" weight="0.32685512" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3286219" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" />
+      <window_info anchor="bottom" id="Messages" order="18" weight="0.3286219" />
+      <window_info anchor="bottom" id="MyBatis Log" order="19" />
+      <window_info anchor="bottom" id="Tail" order="20" />
+      <window_info anchor="bottom" id="Code comment" order="21" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32983023" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="BPMNPalette" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" weight="0.32983023" />
+      <window_info anchor="right" id="leetcode" order="11" side_tool="true" />
+      <window_info anchor="right" id="LuaJ" order="12" />
+      <window_info anchor="right" id="Bean Validation" order="13" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25383994" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.3286219" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3286219" />
+      <window_info anchor="bottom" id="MyBatis Log" order="4" />
+      <window_info anchor="bottom" id="Tail" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32685512" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3286219" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.44522968" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="bottom" id="Sequence" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" visible="true" weight="0.32685512" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="17" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="18" weight="0.3286219" />
+      <window_info anchor="bottom" id="Database Changes" order="19" />
+      <window_info anchor="bottom" id="Version Control" order="20" />
+      <window_info anchor="right" id="leetcode" order="0" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="1" />
+      <window_info anchor="right" id="LuaJ" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32983023" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Word Book" order="8" side_tool="true" />
+      <window_info anchor="right" id="BPMNPalette" order="9" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
+      <window_info anchor="right" id="Database" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="12" />
+      <window_info anchor="right" id="RestServices" order="13" weight="0.32983023" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="polish codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="polish codes" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.12.RELEASE/spring-webmvc-5.1.12.RELEASE-sources.jar!/org/springframework/web/servlet/view/InternalResourceViewResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="50" column="63" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.12.RELEASE/spring-webmvc-5.1.12.RELEASE-sources.jar!/org/springframework/web/servlet/view/JstlView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="74" column="71" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.12.RELEASE/spring-web-5.1.12.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web-mvc-demo/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_2_3.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="149" column="29" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1-sources.jar!/javax/servlet/ServletContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/META-INF/maven/ch.qos.logback/logback-classic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotationdesign/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="88" column="21" selection-start-line="60" selection-start-column="11" selection-end-line="88" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation-demo/src/main/java/com/ajin/annotation/TransactionalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation-demo/src/main/java/com/ajin/repository/NameRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation-demo/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation-demo/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web-mvc-demo/src/main/java/com/ajin/spring/web/mvc/controller/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.12.RELEASE/spring-web-5.1.12.RELEASE-sources.jar!/org/springframework/http/converter/HttpMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.12.RELEASE/spring-web-5.1.12.RELEASE-sources.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1084">
+          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.12.RELEASE/spring-web-5.1.12.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="145" column="37" selection-start-line="145" selection-start-column="37" selection-end-line="145" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.10.1/jackson-databind-2.9.10.1.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="806" column="24" selection-start-line="806" selection-start-column="24" selection-end-line="806" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.10.1/jackson-databind-2.9.10.1-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="375" column="23" selection-start-line="375" selection-start-column="23" selection-end-line="375" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.10.1/jackson-databind-2.9.10.1-sources.jar!/com/fasterxml/jackson/databind/SerializationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web-mvc-demo/src/main/webapp/WEB-INF/spring/app-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0-sources.jar!/com/fasterxml/jackson/databind/JavaType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="654" column="13" lean-forward="true" selection-start-line="654" selection-start-column="13" selection-end-line="654" selection-end-column="13" />
+          <folding>
+            <element signature="e#25858#25859#0" expanded="true" />
+            <element signature="e#25917#25918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="3265" column="27" selection-start-line="3265" selection-start-column="27" selection-end-line="3265" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/DatabaseMetaData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="105" column="28" lean-forward="true" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="137" column="45" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.0/jackson-databind-2.10.0-sources.jar!/com/fasterxml/jackson/databind/DeserializationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13860">
+          <caret line="774" column="27" selection-start-line="774" selection-start-column="27" selection-end-line="774" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8883">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34-sources.jar!/javax/servlet/http/HttpServletResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="153" column="16" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.10.RELEASE/spring-webmvc-5.0.10.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="79" column="64" lean-forward="true" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="449" column="48" selection-start-line="449" selection-start-column="30" selection-end-line="449" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/web/util/UrlPathHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1221">
+          <caret line="193" column="18" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="533" column="45" selection-start-line="533" selection-start-column="45" selection-end-line="533" selection-end-column="45" />
+          <folding>
+            <element signature="e#20672#20673#0" expanded="true" />
+            <element signature="e#20719#20720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.12.RELEASE/spring-webmvc-5.1.12.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24465">
+          <caret line="1232" column="60" selection-start-line="1232" selection-start-column="60" selection-end-line="1232" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.10.RELEASE/spring-web-5.0.10.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.12.RELEASE/spring-webmvc-5.1.12.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2562">
+          <caret line="138" column="26" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.1.7.RELEASE/spring-boot-actuator-2.1.7.RELEASE.jar!/org/springframework/boot/actuate/endpoint/web/servlet/ControllerEndpointHandlerMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.12.RELEASE/spring-webmvc-5.1.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8610">
+          <caret line="474" column="61" selection-start-line="474" selection-start-column="61" selection-end-line="474" selection-end-column="61" />
+          <folding>
+            <element signature="e#4027#4028#0" expanded="true" />
+            <element signature="e#4060#4061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web-mvc-demo/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.12.RELEASE/spring-webmvc-5.1.12.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerExecutionChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          <folding>
+            <element signature="e#1737#1738#0" expanded="true" />
+            <element signature="e#1786#1787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.12.RELEASE/spring-core-5.1.12.RELEASE-sources.jar!/org/springframework/util/CollectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.12.RELEASE/spring-webmvc-5.1.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6468">
+          <caret line="361" column="28" selection-start-line="361" selection-start-column="28" selection-end-line="361" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web-mvc-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formatterspringbootstarter/src/main/java/com/ajin/formatter/impl/DefaultFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotationdesign/src/main/java/com/ajin/thinkinginspringboot/annotationdesign/conditional/IterationCalculatingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composed-annotation/src/main/java/thinkinginspringboot/composedannotation/annotation/TransactionalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composed-annotation/src/main/java/thinkinginspringboot/composedannotation/AnnotationAttributesBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>annotationdemo:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-web-mvc-demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

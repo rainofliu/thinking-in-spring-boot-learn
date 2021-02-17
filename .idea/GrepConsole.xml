@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GrepConsole">
+    <option name="pinnedGrepConsolesState">
+      <PinnedGrepConsolesState>
+        <option name="map">
+          <map>
+            <entry>
+              <key>
+                <RunConfigurationRef>
+                  <option name="icon" value="tomcat.svg" />
+                  <option name="name" value="Tomcat 8.5.33" />
+                </RunConfigurationRef>
+              </key>
+              <value>
+                <Pins>
+                  <option name="pins">
+                    <list>
+                      <Pin>
+                        <option name="consoleUUID" value="9813a7d4-2aa2-4994-b4b1-b828d5dbe052" />
+                        <option name="contentType" value="E:\IntelliJ IDEA 2018.2.3\.IntelliJIdea\system\tomcat\Unnamed_thinking-in-spring-boot\logs\localhost.2021-02-17.log" />
+                        <option name="grepModel">
+                          <GrepModel>
+                            <option name="expression" value="NoClassDefFoundError: javax/servlet/jsp/jstl/core/Config" />
+                            <option name="unlessExpression" value="" />
+                          </GrepModel>
+                        </option>
+                      </Pin>
+                    </list>
+                  </option>
+                </Pins>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </PinnedGrepConsolesState>
+    </option>
+  </component>
+</project>

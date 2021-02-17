@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotationdemo" />
+        <module name="annotationdesign" />
+        <module name="automaticalasembly" />
+        <module name="composedannotation" />
+        <module name="first-app-by-gui" />
+        <module name="formatter-spring-boot-starter" />
+        <module name="spring-web-mvc-demo" />
+        <module name="springapplicationdemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotationdemo" target="1.8" />
+      <module name="annotationdesign" target="1.8" />
+      <module name="automaticalasembly" target="1.8" />
+      <module name="composedannotation" target="1.8" />
+      <module name="first-app-by-gui" target="1.8" />
+      <module name="formatter-spring-boot-starter" target="1.8" />
+      <module name="spring-web-mvc-demo" target="1.8" />
+      <module name="springapplicationdemo" target="1.8" />
+      <module name="thinking-in-spring-boot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="annotationdesign" options="-parameters" />
+      <module name="automaticalasembly" options="-parameters" />
+      <module name="composedannotation" options="-parameters" />
+      <module name="spring-web-mvc-demo" options="-parameters" />
+      <module name="springapplicationdemo" options="-parameters" />
+    </option>
+  </component>
+</project>
